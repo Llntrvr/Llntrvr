@@ -4,3 +4,4 @@
 
  
 ---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=llntrvr&theme=synthwave&hide=prs,issues" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llntrvr&theme=synthwave&layout=compact" />
